@@ -1,8 +1,9 @@
 # TensorFlow-Notebook
 TensorFlow 官方文档学习笔记. 
 
-jupyter notebook
+Jupyter Notebook
 --------
+
 [TF Indroduction Code][1]  
 
 [MNIST Introduction Code][2]
